@@ -1,0 +1,11 @@
+C:\Users\yasse\source\repos\DDA\DDA\bin\Debug\DDA.exe.config
+C:\Users\yasse\source\repos\DDA\DDA\bin\Debug\DDA.exe
+C:\Users\yasse\source\repos\DDA\DDA\bin\Debug\DDA.pdb
+C:\Users\yasse\source\repos\DDA\DDA\obj\Debug\DDA.csproj.AssemblyReference.cache
+C:\Users\yasse\source\repos\DDA\DDA\obj\Debug\DDA.csproj.SuggestedBindingRedirects.cache
+C:\Users\yasse\source\repos\DDA\DDA\obj\Debug\DDA.Form1.resources
+C:\Users\yasse\source\repos\DDA\DDA\obj\Debug\DDA.Properties.Resources.resources
+C:\Users\yasse\source\repos\DDA\DDA\obj\Debug\DDA.csproj.GenerateResource.cache
+C:\Users\yasse\source\repos\DDA\DDA\obj\Debug\DDA.csproj.CoreCompileInputs.cache
+C:\Users\yasse\source\repos\DDA\DDA\obj\Debug\DDA.exe
+C:\Users\yasse\source\repos\DDA\DDA\obj\Debug\DDA.pdb
